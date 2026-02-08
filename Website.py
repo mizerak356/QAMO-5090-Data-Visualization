@@ -1,3 +1,7 @@
+git add requirements.txt
+git commit -m "Add requirements.txt for deployment"
+git push
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
